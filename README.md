@@ -1083,6 +1083,7 @@ fi
 ```
 ## OUTPUT
  ./funcex.sh 
+ 
 <img width="376" height="97" alt="image" src="https://github.com/user-attachments/assets/9f93f7da-8407-4a02-8ac0-fd910aff3a75" />
 
  
@@ -1101,7 +1102,8 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- <img width="396" height="143" alt="image" src="https://github.com/user-attachments/assets/63ba2971-1d35-4e59-8551-3dcf8af3cba3" />
+
+<img width="396" height="143" alt="image" src="https://github.com/user-attachments/assets/63ba2971-1d35-4e59-8551-3dcf8af3cba3" />
 
  cat argshift1.sh
 ```bash
@@ -1119,6 +1121,7 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
+
 <img width="405" height="142" alt="image" src="https://github.com/user-attachments/assets/cc88baa6-f88c-4d1a-be34-e8ec4e70cdeb" />
 
 
@@ -1134,7 +1137,8 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- <img width="407" height="350" alt="image" src="https://github.com/user-attachments/assets/c51a16c1-e6ba-46c2-a078-90ad371f60dd" />
+ 
+<img width="407" height="350" alt="image" src="https://github.com/user-attachments/assets/c51a16c1-e6ba-46c2-a078-90ad371f60dd" />
 
  
 cat > nc.awk
@@ -1166,7 +1170,8 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- <img width="376" height="65" alt="image" src="https://github.com/user-attachments/assets/f781f77a-e08f-461b-a4b2-c1b323d6ffd0" />
+<img width="376" height="65" alt="image" src="https://github.com/user-attachments/assets/f781f77a-e08f-461b-a4b2-c1b323d6ffd0" />
+ 
 
 cat > palindrome.sh
 ```bash
